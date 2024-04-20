@@ -1,4 +1,4 @@
-# Task Tracker
+# Task Tracker 
 
 Task Tracker is a to-do application built with React and styled using Material-UI (MUI). This app allows users to manage their daily tasks through an intuitive interface that supports full CRUD operations—Create, Read, Update, and Delete tasks.
 
@@ -8,6 +8,9 @@ Task Tracker is a to-do application built with React and styled using Material-U
 - **View Tasks**: Tasks are displayed in a list with options to edit or delete.
 - **Update Tasks**: Modify details of existing tasks.
 - **Delete Tasks**: Remove tasks that are no longer needed.
+  
+## Project Preview
+To review the project, click [here](https://6623132a6e15ed5fadfb4b77--chic-salamander-b6c1b9.netlify.app/).
 
 ## Prerequisites
 
@@ -29,6 +32,7 @@ To set up this project locally, follow these steps:
     npm install
 ## Running the Application
     ```bash
-    npm start
+    
+       npm start
 This command runs the app in development mode and opens it in your default web browser at http://localhost:3000.
  
